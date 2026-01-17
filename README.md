@@ -42,7 +42,7 @@ Como designer de formação, priorizei a acessibilidade e a clareza visual, gara
 ## 📞 Contato
 
 Marcos V. R. Pereira  
-[LinkedIn](https://www.linkedin.com/in/marcosvrpereira) | [GitHub](https://github.com/MarckVinny)
+[LinkedIn](https://www.linkedin.com/in/marcosvrpereira) | [GitHub](https://github.com/MarcosVRPereira)
 
 > [!IMPORTANT]
 > **Nota de Propriedade Intelectual:**  
